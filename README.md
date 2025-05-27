@@ -1,4 +1,4 @@
-# E-Learning Platform
+# Blockchain E-Learning Platform
 
 A modern e-learning platform built with React, TypeScript, and Web3 integration for secure certificate management.
 
