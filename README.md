@@ -2,6 +2,10 @@
 
 A modern e-learning platform built with React, TypeScript, and Web3 integration for secure certificate management.
 
+A project by : [Mohammed Lamziouaq](https://github.com/medlamziouaq) & [OUGHEGI El Mehdi](https://github.com/comehdi)
+
+
+
 ## Features
 
 ### Course Management
@@ -170,5 +174,6 @@ VITE_CONTRACT_ADDRESS=your_smart_contract_address
 
 For support, please open an issue in the repository or contact the development team.
 
-@medlamziouaq : https://github.com/medlamziouaq
-@comehdi : https://github.com/comehdi
+ [Mohammed Lamziouaq](https://github.com/medlamziouaq) 
+ 
+ [OUGHEGI El Mehdi](https://github.com/comehdi)
